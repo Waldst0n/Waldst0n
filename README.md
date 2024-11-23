@@ -15,4 +15,6 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas, facinado por desenvo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waldst0n&layout=compact)
 
+[![card](https://github-readme-stats.vercel.app/api?username=Waldst0n&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 
