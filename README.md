@@ -32,8 +32,9 @@ Dedico diariamente meu tempo para estudar novas tecnologias e acompanhar as tend
 
 ## Linguagens que utilizo em meu dia a dia
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waldst0n&layout=compact)
+![Top Langs](https://github-readme-stats-one-khaki.vercel.app/api/top-langs/?username=Waldst0n&layout=compact)
 
-[![card](https://github-readme-stats.vercel.app/api?username=Waldst0n&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+![card](https://github-readme-stats-one-khaki.vercel.app/api?username=Waldst0n&theme=default)
+
 
 
