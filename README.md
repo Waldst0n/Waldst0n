@@ -24,7 +24,7 @@ Principais Tecnologias:
 
 Dedico diariamente meu tempo para estudar novas tecnologias e acompanhar as tendências do mercado, garantindo que minhas habilidades estejam sempre atualizadas e alinhadas às necessidades do setor.
 
-💻 Portfólio: https://my-portfolio-waldst0ns-projects.vercel.app/
+💻 Portfólio: https://waldstonsantana.com.br
 📧 E-mail: waldston.ws@gmail.com
 📞 Telefone: +55 (79) 98823-2693
 
